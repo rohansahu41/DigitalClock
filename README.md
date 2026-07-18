@@ -1,6 +1,6 @@
-Here’s a polished **README.md** template you can use for your Digital Clock project. It’s clean, informative, and visually appealing:
 
-```markdown
+
+
 # ⏰ Digital Clock in C
 
 A simple **Digital Clock** built in C that displays the current system time in `HH:MM:SS` format, updating every second.  
