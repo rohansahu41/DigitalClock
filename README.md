@@ -82,6 +82,3 @@ This project is licensed under the MIT License — feel free to use and modify i
 
 ---
 
-✨ This README gives your project a professional look and makes it easy for others to understand, compile, and run your code.  
-
-Would you like me to also add a **GIF or screenshot section** showing the clock running in your terminal? That makes the README even more engaging.
